@@ -54,10 +54,10 @@ Leveraged knowledge: Javascript, API managment
 ### Technologies ###
 <img align="left" alt="Docker" width="26px" src="https://github.com/github/explore/blob/main/topics/docker/docker.png"/>
 <img align="left" alt="Git" width="26px" src="https://github.com/github/explore/blob/main/topics/git/git.png"/>
-<img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/blob/main/topics/linux/linux.png"/><br>
-<img align="left" alt="MongoDB" width="26px" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png"/><br>
-<img align="left" alt="MySQL" width="26px" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png"/><br>
-<img align="left" alt="postgreSQL" width="26px" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png"/><br>
+<img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/blob/main/topics/linux/linux.png"/>
+<img align="left" alt="MongoDB" width="26px" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png"/>
+<img align="left" alt="MySQL" width="26px" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png"/>
+<img align="left" alt="postgreSQL" width="26px" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png"/>
 <img align="left" alt="Windows" width="26px" src="https://github.com/github/explore/blob/main/topics/windows/windows.png"/><br>
 
 ### Languages ###
@@ -69,7 +69,7 @@ Leveraged knowledge: Javascript, API managment
 ### Contact me ###
 [<img align="left" alt="Gmail | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
 [<img align="left" alt="Website | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin] <br>
 
 [gmail]: mailto:benitomarra@gmail.com
 [website]: https://github.com/FatBenny99
