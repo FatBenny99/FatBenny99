@@ -41,24 +41,24 @@ Leveraged knowledge: Javascript, API managment
 ---
 
 ### Programming Languages ###
-<img align="left" alt="C" width="26px" src="https://github.com/github/explore/blob/main/topics/c/c.png"/>
-<img align="left" alt="Java" width="26px" src="https://github.com/github/explore/blob/main/topics/java/java.png"/>
-<img align="left" alt="C++" width="26px" src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png"/>
-<img align="left" alt="SQL" width="26px" src="https://github.com/github/explore/blob/main/topics/sql/sql.png"/>
-<img align="left" alt="bash" width="26px" src="https://github.com/github/explore/blob/main/topics/bash/bash.png"/>
-<img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/main/topics/python/python.png"/>
-<img align="left" alt="Kotlin" width="26px" src="https://github.com/github/explore/blob/main/topics/kotlin/kotlin.png"/>
-<img align="left" alt="React" width="26px" src="https://github.com/github/explore/blob/main/topics/react/react.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png"/><br>
+<img align="left" alt="C" width="32px" src="https://github.com/github/explore/blob/main/topics/c/c.png"/>
+<img align="left" alt="Java" width="32px" src="https://github.com/github/explore/blob/main/topics/java/java.png"/>
+<img align="left" alt="C++" width="32px" src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png"/>
+<img align="left" alt="SQL" width="32px" src="https://github.com/github/explore/blob/main/topics/sql/sql.png"/>
+<img align="left" alt="bash" width="32px" src="https://github.com/github/explore/blob/main/topics/bash/bash.png"/>
+<img align="left" alt="Python" width="32px" src="https://github.com/github/explore/blob/main/topics/python/python.png"/>
+<img align="left" alt="Kotlin" width="32px" src="https://github.com/github/explore/blob/main/topics/kotlin/kotlin.png"/>
+<img align="left" alt="React" width="32px" src="https://github.com/github/explore/blob/main/topics/react/react.png"/>
+<img align="left" alt="JavaScript" width="32px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png"/><br>
 
 ### Technologies ###
-<img align="left" alt="Docker" width="26px" src="https://github.com/github/explore/blob/main/topics/docker/docker.png"/>
-<img align="left" alt="Git" width="26px" src="https://github.com/github/explore/blob/main/topics/git/git.png"/>
-<img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/blob/main/topics/linux/linux.png"/>
-<img align="left" alt="MongoDB" width="26px" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png"/>
-<img align="left" alt="MySQL" width="26px" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png"/>
-<img align="left" alt="postgreSQL" width="26px" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png"/>
-<img align="left" alt="Windows" width="26px" src="https://github.com/github/explore/blob/main/topics/windows/windows.png"/><br>
+<img align="left" alt="Docker" width="32px" src="https://github.com/github/explore/blob/main/topics/docker/docker.png"/>
+<img align="left" alt="Git" width="32px" src="https://github.com/github/explore/blob/main/topics/git/git.png"/>
+<img align="left" alt="Linux" width="32px" src="https://github.com/github/explore/blob/main/topics/linux/linux.png"/>
+<img align="left" alt="MongoDB" width="32px" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png"/>
+<img align="left" alt="MySQL" width="32px" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png"/>
+<img align="left" alt="postgreSQL" width="32px" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png"/>
+<img align="left" alt="Windows" width="32px" src="https://github.com/github/explore/blob/main/topics/windows/windows.png"/><br>
 
 ### Languages ###
 <img align="left" alt="English" width="26px" src="https://unpkg.com/language-icons/icons/en.svg"/>
