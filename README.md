@@ -2,7 +2,7 @@
 <h3>Cybersecurity Engineer</h3>
 
 - 🌱 I’m a recent Master's Graduate at the Politecnico di Torino.
-- 🔭 Here there are my college projects with some explanation.
+- 🔭 Here  are my college projects with some explanation.
 - 📄 I'm very motivated and a fast learner.
 - ⚡ I'm currently looking for Cybersecurity Engineer work opportunities to start my career and learn the best practice of the sector.
 - 👨🏻‍💻 I’m passionate about problem solving and algorithms.<br>
