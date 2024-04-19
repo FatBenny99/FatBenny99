@@ -11,7 +11,7 @@
 
 ### Projects ###
 - [Thesis - Automatic deployment of network security functions with Docker Compose](https://github.com/FatBenny99/Thesis-Verefoo) - Individual<br>
-Description TODO
+Within this work, VEREFOO(VErified REFinement and Optimized Orchestration) was designed, a framework capable of automatically allocating and configuring Network Security Functions (NSFs) to meet user-defined input security requirements. Early versions of the framework were able to uniquely allocate in one iteration only one type of Network Security Functions, usually Firewalls or VPN Gateways. The work in this paper describes and promotes an updated version of the framework, which is able in a single iteration to allocate both of the described NSFs simultaneously. It also describes the process of design, development, and implementation of two Demos produced to show the potential of the framework.<br>
 Leveraged knowledge: Docker compose, Virtualization, Secure comunication , Java, Bash.
 
 - [Medical-Reality](https://github.com/FatBenny99/Medical-Reality) - Teamwork<br>
