@@ -19,7 +19,8 @@ Description TODO
 Leveraged knowledge: Javascript, React 3D
 
 - [Pong](https://github.com/FatBenny99/Pong) - Individual<br>
-Description TODO
+  The first very famous Pong video game developed on a LandTiger LPC1768 ARM board. This project aimed to learn how to use C and Assembly to control a physical board. An equivalent board or emulator is required to compile the project. <br>
+
 Leveraged knowledge: Embedded C, Assembly
 
 - [Neon Nightmare](https://github.com/chettilaura/Neon-Nightmare) - Teamwork<br>
