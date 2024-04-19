@@ -15,7 +15,7 @@ Within this work, VEREFOO(VErified REFinement and Optimized Orchestration) was d
 Leveraged knowledge: Docker compose, Virtualization, Secure comunication , Java, Bash.
 
 - [Medical-Reality](https://github.com/FatBenny99/Medical-Reality) - Teamwork<br>
-Description TODO
+Web application developed with React 3D that can provide interactive lessons for medical students approaching their first experiences in hospital internships. The idea of the project is to speed up the learning of the simplest medical techniques to speed up the onsite education process.<br>
 Leveraged knowledge: Javascript, React 3D
 
 - [Pong](https://github.com/FatBenny99/Pong) - Individual<br>
@@ -23,19 +23,19 @@ Leveraged knowledge: Javascript, React 3D
   Leveraged knowledge: Embedded C, Assembly
 
 - [Neon Nightmare](https://github.com/chettilaura/Neon-Nightmare) - Teamwork<br>
-Description TODO
+Demo of a metroidvania video game designed to learn how to use the Unity graphics engine and the C# programming language. The project also features a video trailer available on youtube, and the demo is downloadable and playable by anyone.<br>
 Leveraged knowledge: C#, Level Design, Game Design
 
 - [Sporty Spaces](https://github.com/FatBenny99/Sporty-Spaces) - Teamwork<br>
-Description TODO
+Phone app that allows you to book, rent and review sports camps. This project aims to learn how to develop simple mobile applications through the use of Android Studio and the Kotlin language. Both the frontend and backend parts of the application are available through google's Firebase servers. <br>
 Leveraged knowledge: Kotlin, Jetpack Compose
 
 - [EZ Warehouse](https://github.com/FatBenny99/EZ-WAREHOUSE) - Teamwork<br>
-Description TODO
+Web application that manages orders, arranges items, and sorts them within a warehouse. This project carried out as a group aimed to gain an understanding of the mechanics of teamwork and agile procedures during development via two-week sprints. The frontend part was already provided by the polytechnic, while the backend was developed from scratch. <br>
 Leveraged knowledge: Javascript, API managment, testing
 
 - [Study Plan](https://github.com/FatBenny99/Study-Plan) - Individual<br>
-Description TODO
+Web application that simulates the management of a college student's curriculum. Within the app it is possible to enter, remove or edit exams to be taken during the current year. A registration and login system has been developed in the app as well, so that the study plan of multiple users can be saved.<br>
 Leveraged knowledge: Javascript, API managment
 
 ---
