@@ -72,18 +72,13 @@ Leveraged knowledge: Javascript, API managment
 [<img align="left" alt="Leetcode | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/>][leetcode]
 [<img align="left" alt="Resume | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/letterboxd.svg"/>][resume]<br>
 
-[gmail]: mailto:filippo.brugnolaro.fb@gmail.com
-[website]: https://filippobrugnolaro.github.io
-[linkedin]: https://www.linkedin.com/in/filippobrugnolaro/
-[instagram]: https://www.instagram.com/filippo.brugnolaro
-[telegram]: https://t.me/filippo_brugnolaro
-[leetcode]: https://leetcode.com/filippobrugnolaro/
-[resume]: https://filippobrugnolaro.github.io/resources/brugnolaro_filippo_cv.pdf
-
+[gmail]: mailto:benitomarra@gmail.com
+[website]: https://github.com/FatBenny99
+[linkedin]: https://www.linkedin.com/in/benito-marra-5019012a7/
 ---
 
-<img align="left" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=filippobrugnolaro&show_icons=true&locale=en&layout=compact&theme=dracula"/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=filippobrugnolaro&show_icons=true&locale=en&theme=dracula" alt="stats"/></p>
+<img align="left" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=FatBenny99&show_icons=true&locale=en&layout=compact&theme=dracula"/>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=FatBenny99&show_icons=true&locale=en&theme=dracula" alt="stats"/></p>
 <!--
 **FatBenny99/FatBenny99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
