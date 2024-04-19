@@ -10,15 +10,15 @@
 ---
 
 ### Projects ###
-- [Thesis - Automatic deployment of network security functions with Docker Compose](https://github.com/FatBenny99/Thesis-Verefoo) - Teamwork<br>
+- [Thesis - Automatic deployment of network security functions with Docker Compose](https://github.com/FatBenny99/Thesis-Verefoo) - Individual<br>
 Description TODO
 Leveraged knowledge: Docker compose, Virtualization, Secure comunication , Java, Bash.
 
-- [Medical-Reality](https://github.com/FatBenny99/Medical-Reality) - Individual<br>
+- [Medical-Reality](https://github.com/FatBenny99/Medical-Reality) - Teamwork<br>
 Description TODO
 Leveraged knowledge: Javascript, React 3D
 
-- [Pong](https://github.com/FatBenny99/Pong) - Teamwork<br>
+- [Pong](https://github.com/FatBenny99/Pong) - Individual<br>
 Description TODO
 Leveraged knowledge: Embedded C, Assembly
 
@@ -34,7 +34,7 @@ Leveraged knowledge: Kotlin, Jetpack Compose
 Description TODO
 Leveraged knowledge: Javascript, API managment, testing
 
-- [Study Plan](https://github.com/FatBenny99/Study-Plan) - Teamwork<br>
+- [Study Plan](https://github.com/FatBenny99/Study-Plan) - Individual<br>
 Description TODO
 Leveraged knowledge: Javascript, API managment
 
