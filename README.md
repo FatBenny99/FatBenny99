@@ -67,10 +67,6 @@ Leveraged knowledge: Javascript, API managment
 [<img align="left" alt="Gmail | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
 [<img align="left" alt="Website | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
-[<img align="left" alt="Telegram | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>][telegram]
-[<img align="left" alt="Leetcode | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/>][leetcode]
-[<img align="left" alt="Resume | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/letterboxd.svg"/>][resume]<br>
 
 [gmail]: mailto:benitomarra@gmail.com
 [website]: https://github.com/FatBenny99
