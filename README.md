@@ -71,7 +71,6 @@ Leveraged knowledge: Javascript, API managment
 [gmail]: mailto:benitomarra@gmail.com
 [website]: https://github.com/FatBenny99
 [linkedin]: https://www.linkedin.com/in/benito-marra-5019012a7/
----
 
 <img align="left" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=FatBenny99&show_icons=true&locale=en&layout=compact&theme=dracula"/>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=FatBenny99&show_icons=true&locale=en&theme=dracula" alt="stats"/></p>
